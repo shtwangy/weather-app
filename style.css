@@ -28,22 +28,30 @@ body {
 }
 
 .degree-section {
-    display: flex;
     align-items: center;
     cursor: pointer;
 }
 
-.degree-section span {
+.main-degree-section {
+    display: flex;
+}
+
+.main-degree-section span {
     margin: 10px;
     font-size: 30px;
 }
 
-.degree-section h2 {
+.main-degree-section h2 {
     font-size: 40px;
+}
+
+.temperature-degree-max-min {
+    text-align: center;
 }
 
 .icon {
     font-size: 100px;
 }
+
 
 
