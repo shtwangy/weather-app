@@ -53,5 +53,11 @@ body {
     font-size: 100px;
 }
 
+@media (max-width: 670px) {
+    .location {
+        flex-direction: column;
+    }
+}
+
 
 
